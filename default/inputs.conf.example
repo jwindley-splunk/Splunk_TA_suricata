@@ -1,0 +1,4 @@
+[monitor:///var/log/suricata/*/eve.json*]
+disabled = true
+sourcetype = suricata
+index = suricata
